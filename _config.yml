@@ -10,7 +10,7 @@ title: Shimer's TA showreel
 email: amaurot_ff@sjtu.edu.cn
 description: Welcome! ^w^
 words: Thank you for your patience!
-baseurl: ""https://bin-serein.github.io"" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 # twitter_username: hemang_kumar
 # github_username:  hemangsk
