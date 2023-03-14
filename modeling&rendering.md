@@ -1,151 +1,39 @@
 ---
 layout: page
 title: Modeling & Rendering
-permalink: /modeling&rendering/
-tagline: "Humanity is overrated."
+permalink: /modeling_rendering/
 category: "modeling&rendering"
+order: 3
 ---
 
-<h2>Gravity</h2>
-<p>Minimal, text based, liberal Jekyll theme<br>for sharing your awesome ideas.</p>
-<br>
-<center><p ><strong><span class="manual">Get up and running with</span> Gravity</strong></p></center>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Posting</strong>
-  </div>
-<p>  <div class="manual-content">
-
-
-  ```
-  - Create a .markdown file inside <code class="highlighter-rouge">_posts</code> folder.<br>
-  - Name the file according to the format YY-MM-DD-[short name for your post].<br>  <code>2016-03-30-i-love-design.markdown</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.<br>
-  <div class="example">
-    <span class='manual'>FORMAT</span><BR>
-    <pre>---
-```
-
-layout: post | default | page
-title:  String<span class="hint"> Post Title</span>
-date:   Time Stamp
-categories: String | Array of Strings<span class="hint"> Category / Categories </span>
-\---</pre>
-
-```
-  </div>
-  <div class="example">
-
-    <pre>---
-```
-
-layout: post
-title:  "The One with the Blackout"
-date:   2016-03-30 19:45:31 +0530
-categories: ["life", "friends"]
-\---</pre>
-
-```
-  </div>
-```
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Pages</strong>
-  </div>
-<p>  <div class="manual-content">
-
-```
-  - Create a .md file in the root directory.<br>
-  - Name the file with the desired page link name.<br>  <code>about.md</code><br><code>design.md</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.
-  <div class="example">
-    <span class='manual'>FORMAT</span><BR>
-    <pre>---
-```
-
-layout: page
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint">Optional Gravity Feature : Tagline for the page</span>
-\---</pre>
-
-```
-  </div>
-  <div class="example">
-
-    <pre>---
-```
-
-layout: page
-title:  "Science"
-permalink:   /science/
-tagline : "Humanity is overrated."
-\---</pre>
-
-```
-  </div>
-```
-
-  </div>
-</p>
-</div>
-<br>
-<div class="manual-post">
-  <div class="manual manual-title">
-  <strong>Create Archives/ Category Pages</strong><br>
-</div><br>
-<div class="archiveIntro">
-  <p>
-    Introducing <strong>Archive Pages</strong>.<br></p>
-  <span class="archive-intro">  You can display a list of all the post corresponding to a particular category on a standalone Page using the <code>'archive'</code> layout.
-</span>
-</div>
 <br>
 
-<p>  <div class="manual-content">
 
-```
-  - Create a .md file in the root directory.<br>
-  - Name the file. Preferred name will be the name of the category<br>  <code>life.md</code><br>
-  - Write the <a href="jekyll">Front Matter</a> and content in the file.
-  <div class="example">
-    <span class='manual'>FORMAT</span><BR>
-<pre>---
-```
+![Unity_sable]({{site.url}}/assets/images/Unity_Sable_2.png)
+<br>
 
-layout: archive<span class="hint"> Archive Page Layout</span>
-title: String <span class="hint">Title of the webpage</span>
-permalink: / String / <span class="hint">Permalink for the webpage</span>
-tagline: String <span class="hint"> Tagline for the page</span>
-category : String <span class="hint"> Name of the category of which the page will show posts.</span>
-\---</pre>
+<center> <iframe width="750" height="429" src="https://www.dropbox.com/s/5v6htp6f6ner95s/Unity_Sable.mp4?raw=1" frameborder="0" allowfullscreen></iframe> </center>
+<center> Unity URP 仿《Sable》渲染 </center>
+<br>
 
-```
-  </div>
-  <div class="example">
+![xmj]({{site.url}}/assets/images/xmj.png)
+<center> 《重启咲良田》相麻堇 角色建模卡渲 </center>
+<br>
 
-    <pre>---
-```
+![mint]({{site.url}}/assets/images/Mint.png)
+<center> 角色建模卡渲 </center>
+<br>
 
-layout: archive
-title:  "Design"
-permalink : "Design"
-category: "design"
-tagline: "It's all about perception."
-\---</pre>
+![knd]({{site.url}}/assets/images/knd.png)
+<br>
 
-```
-</div><br>
-```
-
-  </div>
-</p>
-</div>
+<center> <iframe width="750" height="429" src="https://www.dropbox.com/s/4dxdjxabbdv5cuy/knd_2.mp4?raw=1" frameborder="0" allowfullscreen></iframe> </center>
+<center> 宵崎奏 角色建模渲染 </center>
+<br>
 
 
+![yy_1]({{site.url}}/assets/images/yy_1.png)
+<br>
+
+![yy_2]({{site.url}}/assets/images/yy_2.png)
+<br>
