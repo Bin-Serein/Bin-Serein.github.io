@@ -24,8 +24,8 @@ order: 3
 <center> 角色建模卡渲 </center>
 <br>
 
-![knd]({{site.url}}/assets/images/knd.png)
-<br>
+<!-- ![knd]({{site.url}}/assets/images/knd.png)
+<br> -->
 
 <center> <iframe width="750" height="429" src="https://www.dropbox.com/s/4dxdjxabbdv5cuy/knd_2.mp4?raw=1" frameborder="0" allowfullscreen></iframe> </center>
 <center> 宵崎奏 角色建模渲染 </center>
